@@ -1,0 +1,8 @@
+body {
+background: red;
+
+}
+#letters > div {
+    transition: 5s;
+    transition-timing-function: linear;
+}
